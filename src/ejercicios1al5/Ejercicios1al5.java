@@ -5,6 +5,8 @@
  */
 package ejercicios1al5;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Familia
